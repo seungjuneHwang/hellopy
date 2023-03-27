@@ -34,5 +34,5 @@ def lottery():
         print("Sorry, you did not win this time. Better luck next time!")
         
 # Call the lottery function to run the program
-#lottery()
+# lottery()
 mylotto()
